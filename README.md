@@ -1,35 +1,27 @@
-# Vue ToDo List
+# AngularApp
 
-## About
-Project of a CRUD ToDo list made in vue.js
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-## Preview Link
-https://crud-to-do-list-rdemora2.vercel.app/
+## Development server
 
-## Home preview
-![image](https://user-images.githubusercontent.com/103211332/187738997-5fad281b-2d97-402d-a403-bc553dc49fcf.png)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Task list preview
-![image](https://user-images.githubusercontent.com/103211332/187726589-3ec7f2d2-f99d-4840-be14-1d98f5414a12.png)
+## Code scaffolding
 
-## Task add/edit preview
-![image](https://user-images.githubusercontent.com/103211332/187726912-c489ff92-624b-49fc-83d6-27ecb09c082e.png)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Mobile preview
-![image](https://user-images.githubusercontent.com/103211332/187727114-a1d7ff30-9ef7-40c7-91c6-033750b5973c.png)
-![image](https://user-images.githubusercontent.com/103211332/187727430-3592824d-8541-430b-af60-f40cc2d40296.png)
+## Build
 
-## Project setup
-```
-npm install
-```
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Running unit tests
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
